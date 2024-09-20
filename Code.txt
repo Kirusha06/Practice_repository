@@ -5,6 +5,7 @@ int a, b;
 scanf("a= %d", &a);
 scanf("b= %d", &b);
 printf("a = %d, b = %d", a, b);
+printf("a + b = %d", a + b);
 return 0;
 
 }
